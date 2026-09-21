@@ -6,6 +6,12 @@
 - Frontend: [Project-AI-manager/Frontend](https://github.com/Project-AI-manager/Frontend)
 - Backend: [Project-AI-manager/Backend](https://github.com/Project-AI-manager/Backend)
 
+## Исследования и продолжение разработки
+
+- [Улучшение ML-модуля: точка продолжения](docs/ml-improvement/README.md) — выводы из реальных переписок, результаты 33 генераций, риски и последовательность внедрения.
+- [План реализации](docs/ml-improvement/implementation-roadmap.md) — задачи P0–P2 с критериями готовности.
+- [Методика и результаты benchmark](docs/ml-improvement/benchmark-2026-09-13.md) — границы эксперимента, сравнение A/B/C и контрольные сценарии.
+
 > Проект находится на стадии рабочего MVP. Полный пользовательский сценарий реализован для Telegram. Карточки других каналов показывают направление развития продукта и не означают, что их интеграция уже готова.
 
 ## Что уже умеет продукт
